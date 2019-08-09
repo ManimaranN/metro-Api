@@ -1,0 +1,1 @@
+[{"route_id":"R001","route_short_name":"R1","route_long_name":"Aluva to Maharaja College","route_type":"1","route_color":"00B7F3","route_text_color":"000000"},{"route_id":""}]
